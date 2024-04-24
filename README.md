@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R0XAC5J)
 
 [![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinfriedli)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinfriedli)](https://github.com/anuraghazra/github-readme-stats)
